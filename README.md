@@ -180,9 +180,7 @@ This software is provided "as is" without warranty. Trading cryptocurrencies and
 
 Contributions are welcome! Please open an issue for major changes or submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+**Support:** For questions or issues, contact via Telegram: [@Vladmeer](https://t.me/vladmeer67) and Twitter: [@Vladmeer](https://x.com/vladmeer67)
 
 ---
 
